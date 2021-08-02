@@ -1,0 +1,16 @@
+{
+  "name": "electron.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+    
+  },
+  "keywords": [],
+  "author": "Wendel Eduardo",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.1.7"
+  }
+}
